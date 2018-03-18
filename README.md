@@ -139,7 +139,4 @@ images.forEach(image => observer.observe(image));
 后来查了一下，有个小技巧，给column2加上min-width: 0, 问题解决。
 而且要在，即除了text-overflow，white-space，overflow之外需要在flex项（就flex:1那一些容器）里面设置宽度！
 
-### 4. QQ音乐接口 问题
-https://segmentfault.com/q/1010000012698827/a-1020000012700711
 
-http://c.y.qq.com/base/fcgi-bin/fcg_musicexpress.fcg?json=3&guid={0}

@@ -1,0 +1,31 @@
+.navbar {
+      background-color: white;
+      width: 100vw;
+      .nav-list {
+        display: flex;
+        align-items: center;
+        .nav-itme {
+            flex-grow: 1;
+            text-align: center;
+            line-height: $tab-height;
+            color: $nav-item-color;
+            cursor: pointer;
+            &.active {
+                color: $header-background;
+                font-weight: bolder;
+                position: relative;
+                &:after{
+                    content: '';
+                    position: absolute;
+                    display: block;
+                    background-color: $header-background;
+                    height: 2px;
+                    left: 50%;
+                    transform: translateX(-50%); 
+                    bottom: 0;
+                    width:$tab-width;
+                }
+            }
+        }
+    }
+}

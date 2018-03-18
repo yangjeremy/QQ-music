@@ -1,0 +1,77 @@
+{
+    "code": 0,
+    "data": {
+        "slider": [
+            {
+                "linkUrl": "https://y.qq.com/m/act/BattleofTeana2/v3/index.html?ADTAG=jiaodiantu",
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R720x288M000000TKGAD0uRLzl.jpg",
+                "id": 13301
+            },
+            {
+                "linkUrl": "https://c.y.qq.com/node/m/client/music_headline/index.html?_hidehd=1&_button=2&zid=437515",
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R720x288M000001srOiL15XDpY.jpg",
+                "id": 13326
+            },
+            {
+                "linkUrl": "https://y.qq.com/m/digitalbum/gold/index.html?_video=true&id=3751508&g_f=shoujijiaodian",
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R720x288M000002Mfam02mcGcz.jpg",
+                "id": 13286
+            },
+            {
+                "linkUrl": "https://y.qq.com/m/act/voiceofdreams2/v3/index.html?ADTAG=jiaodiantu",
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R720x288M000003j9b163VNMYx.jpg",
+                "id": 13290
+            },
+            {
+                "linkUrl": "https://c.y.qq.com/node/m/client/music_headline/index.html?_hidehd=1&_button=2&zid=436938&ADTAG=JDT",
+                "picUrl": "http://y.gtimg.cn/music/photo_new/T003R720x288M000003gsJ7H0Wy6Q2.jpg",
+                "id": 13297
+            }
+        ],
+        "radioList": [
+            {
+                "picUrl": "https://p.qpic.cn/music_cover/llTQ9l2AeicK2OLIORnsUdtq4v9kxvhSVUWWeHibS7YBeiaq5m0iaflP9A/300?n=1",
+                "Ftitle": "花语经典",
+                "radioid": 199
+            },
+            {
+                "picUrl": "https://p.qpic.cn/music_cover/ibSiagqKjw1zfTgxY7F8CfE5yicdhXTYiafhoB8PRg4bJwEibfNibCjupA7w/300?n=1",
+                "Ftitle": "一人一首热歌煲周末专用音乐 | 关于爱和梦想的故事",
+                "radioid": 199
+            }
+        ],
+        "songList": [
+            {
+                "picUrl": "https://p.qpic.cn/music_cover/qH8rLHHhL8O8Iibm56uPzJ5PWwVhfyurjXDO1lPBicYsmmEgII3ibJnOw/300?n=1",
+                "Ftitle": "「 圣诞派对 」激活年末的音乐盛宴",
+                "radioid": 199
+            },
+            {
+                "picUrl": "https://p.qpic.cn/music_cover/RcBe5PciaucYpAibTqTs0wBDsbQ3wsT9tBbeVzeEPoZ1WojT0cNrh9Pg/300?n=1",
+                "Ftitle": "一人一首热歌",
+                "radioid": 199
+            },
+            {
+                "picUrl": "https://p.qpic.cn/music_cover/ESQkDB4ohgibFpRT23xHVFZLickuniabHoxmleC9fkFH5rYVLFchRT7Bw/300?n=1",
+                "Ftitle": "孤独患者散步时听的百首日系民谣",
+                "radioid": 199
+            },
+            {
+                "picUrl": "https://p.qpic.cn/music_cover/rbKoTQdkPFC5FFC95YibQL7OHwaD6icBrmy3zQ0XXex0Q1KSibo5twzxg/300?n=1",
+                "Ftitle": "每日新歌：性感亦感性，卡妹双单来袭",
+                "radioid": 199
+            }
+            ,
+            {
+                "picUrl": "https://p.qpic.cn/music_cover/JBDCVgqXWXaYUvcsElqcicdgXOO1IonhIUHex4rRjkf3yAIIgmZvicicg/300?n=1",
+                "Ftitle": "花语经典",
+                "radioid": 199
+            },
+            {
+                "picUrl": "http://y.gtimg.cn/music/photo/radio/track_radio_199_13_1.jpg",
+                "Ftitle": "一人一首热歌",
+                "radioid": 199
+            }
+        ]
+    }
+}

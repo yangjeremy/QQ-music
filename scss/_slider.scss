@@ -1,0 +1,31 @@
+// .qq-slider {
+//     overflow: hidden;
+//     &::-webkit-scrollbar {
+//       display: none
+//     }
+
+//     .qq-slider-wrap{
+//         display: flex;
+//         transition: transform .6s;
+//         position: relative;
+//         left: 0;
+//     }
+//     .qq-slider-item {
+//         &>a{
+//             display:block; 
+//             img {
+//                 display: block;
+//                 width: 100%;
+//             }
+//         }
+//     }
+// }
+.swiper-slide {
+    img {
+        width: 100vw
+    }
+    
+}
+.swiper-pagination-bullet-active {
+        background: #31c27c;
+    }

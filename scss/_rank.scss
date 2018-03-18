@@ -1,0 +1,51 @@
+.top-item {
+    padding-right: 10px;
+    margin: $page-margin;
+    background-color: white;
+    a {
+       text-decoration: none;
+       color: $nav-item-color;
+       display: flex;
+       align-items: center;
+       .item-img{
+        width: $top-img-size;
+        height: $top-img-size;
+        flex-shrink: 0;
+        background: #999;
+        img {
+            width:100% ;
+        }
+       }
+        .top-info {
+            margin-left: 12px;
+            h2,
+            p {
+                margin: 0;
+                padding: 0;
+                font-weight: normal;
+                
+                @include no-wrap
+            }
+            h2 {
+                line-height: 32px;
+                font-size: $h2-font-size;
+                color: $font-color-one;
+            }
+            p {
+                line-height: $p-line-height;
+                font-size: $p-font-size;
+                color: $nav-item-color;
+                span {
+                color: $font-color-one;
+                margin: 0 8px;
+                }
+            }
+        }
+
+
+
+    }
+   
+
+    
+}

@@ -1,0 +1,54 @@
+$header-background :#31c27c;
+$header-height: 44px;
+$logo-height : 25px;
+$body-background :#f4f4f4;
+$tab-height:40px;
+$nav-item-color:#999;
+$tab-width:80px;
+$h1-font-size: 24px;
+$h2-font-size: 16px;
+$font-color-one: #333;
+@mixin icon-play {
+    width: 24px;
+    height: 24px;
+    background-image: url('/imgs/icon.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+};
+$font-style: poppin,Tahoma,Arial,\5FAE\8F6F\96C5\9ED1,sans-serif;
+$top-img-size: 100px;
+$p-font-size: 14px;
+$p-line-height: 21px;
+$page-margin: 10px;
+
+@mixin no-wrap {
+    word-break:break-all;
+    display:-webkit-box;
+    -webkit-line-clamp:1;
+    -webkit-box-orient:vertical;
+    overflow:hidden;
+
+};
+
+$font-red:#fc4524;
+
+@mixin h6-style {
+    margin: 10px 0 2px;
+    line-height: 18px;
+    font-size: 16px;
+    font-weight: normal;
+    color: #000;
+};
+
+@mixin pos-absolute {
+    position: absolute;
+    top: 0;
+    left: 0;
+};
+
+
+

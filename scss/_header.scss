@@ -1,0 +1,26 @@
+#header {
+    background-color: $header-background;
+    height: $header-height;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    h1 {
+      display: none;
+    }
+    #logo {
+        height: $logo-height;
+        margin-left: 10px;  
+    }
+    .down-qq{
+        background-color: #149c5a;
+        outline: none;
+        border: none;
+        color: white;
+        font-size: $p-font-size;
+        line-height: $p-line-height;
+        border-radius: $p-font-size;
+        padding: 2px $page-margin;
+        margin-right: $page-margin;
+        cursor: pointer;
+    }
+}

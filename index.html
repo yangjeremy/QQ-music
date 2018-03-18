@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="zh">
+    <head>
+        <title>qq.muscic</title>
+        <meta charset="UTF-8">
+        <!-- <link rel="stylesheet" href="./scss/swiper.css"> -->
+        <meta name="viewport" content="initial-scale=1.0">
+    </head>
+    <body>
+        <header id="header">
+            <h1>qq</h1>
+            <img id="logo" src="imgs/logo.png" alt="logo">
+            <button class="down-qq">下载APP</button>
+        </header>
+        <nav class="navbar">
+            <ul class="nav-list">
+                <li class="nav-itme active " data-view=".rec-view" data-roll="tab">推荐</li>
+                <li class="nav-itme" data-view=".rank-view" data-roll="tab">排行榜</li>
+                <li class="nav-itme " data-view=".search-view" data-roll="tab">搜索</li>
+            </ul>
+        </nav>
+        <div class="rec-view tab-content">
+            <div class="swiper-container" id="slider"></div>
+            <div class="radios">
+                <h2 class="tittle">电台</h2>
+                <div class="list">
+                    <!-- <div class="item">
+                        <div class="item_media">
+                            <img src="http://y.gtimg.cn/music/photo/radio/track_radio_199_13_1.jpg" alt="pic">
+                            <span class="icon"></span>
+                        </div>
+                        <div class="item_info">
+                            <h3>热门电台</h3>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="item_media">
+                            <img src="http://y.gtimg.cn/music/photo/radio/track_radio_199_13_1.jpg" alt="pic">
+                            <span class="icon"></span>
+                        </div>
+                        <div class="item_info">
+                            <h3>热门电台</h3>
+                        </div>
+                    </div> -->
+                    
+                </div>
+            </div>
+            <div class="song">
+                <h2 class="tittle">歌单</h2>
+                <div class="list"></div>
+            </div>
+            
+        </div>
+        <div class="rank-view hide tab-content">
+            <div class="top-list">
+                <!-- <div class="top-item">
+                    <a href="#">
+                        <div class="item-img">
+                            <img src="https://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_4_300_4933887.jpg?max_age=2592000" alt="pic">
+                        </div>
+                        <div class="top-info">
+                            <h2>巅峰榜热歌</h2>
+                            <p>1<span>背过手</span>-薛之谦</p>
+                            <p>2<span>心愿便利贴</span>-薛之谦</p>
+                            <p>3<span>女儿国</span>-薛之谦</p>
+                        </div>
+                    </a>
+                </div> -->
+            </div>
+        </div>
+        <div class="search-view  hide  tab-content">
+            <div class="search-input">
+                <input type="text" name="search" placeholder="搜索歌曲,歌单,专辑" autocomplete="off">
+                <span class="search-icon"></span>
+            </div>
+            <div class="hot-search">
+                <h3>热门搜索</h3>
+                <div class="hot-tags">
+                    <a href="#">梦想歌神第二季</a>
+                    <a href="#">一生所爱</a>
+                    <a href="#">DJ舞曲啦啦啦</a>
+                    <a href="#">陈玉红</a>
+                    <a href="#">我</a>
+                    <a href="#">喊了喜剧人第二季</a>
+                    <a href="#">本山快乐营</a>
+                </div>
+            </div>
+            <div class="search-result hide">
+                <ul class="search-result-list">
+                    <li><p class="loading hide">laoding</p></li>
+                    <!-- <li class="resuilt-item">
+                        <span class="music-icon"></span>
+                        <h6>一生所爱</h6>
+                        <p>卢冠廷</p>
+                    </li>
+                    <li class="resuilt-item">
+                        <span class="music-icon"></span>
+                        <h6>一生所爱</h6>
+                        <p>卢冠廷</p>
+                    </li>
+                    <li class="resuilt-item">
+                        <span class="music-icon"></span>
+                        <h6>一生所爱</h6>
+                        <p>卢冠廷</p>
+                    </li> -->
+                </ul>
+            </div>
+
+        </div>
+        <div class="music-player ">
+            <div class="player-wrap">
+                <div class="player-head">
+                    <div class="song-img">
+                        <img src="https://y.gtimg.cn/music/photo_new/T002R68x68M000003GOiTz14NR7b.jpg?max_age=2592000" alt="pic">
+                    </div>
+                    <div class="song-info">
+                        <h1>every time miss you</h1>
+                        <p>sia</p>
+                    </div>
+                    <div class="play-icon"></div>
+                </div>
+                <div class="lyricwrap">
+                    
+                </div>
+                <div class="player-control">
+                    <div class="control-icon">
+                        <div class="left-icon">
+                            <a href="#"></a>
+                        </div>
+                        <!-- <div class="right-icon">
+                            <a href="#"></a>
+                        </div> -->
+                    </div>
+                    <div class="progress">
+                        <!-- <span class="start-time play-time">05:12</span>
+                        <div class="progress_bar">
+                            <div class="progress_load"></div>
+                            <div class="progress_bg"></div>
+                        </div>
+                        <span class="end-time play-time">05:12</span> -->
+                    </div>
+                    <div class="down-wrap">
+                        <div class="down-btn">
+                            <a href="#">免费下载这首歌</a>
+                        </div>
+                    </div>
+                    
+                </div>
+                    
+                
+            </div>
+            <div class="bg-mask"></div>
+            <div class="bg-image"></div>
+            
+        </div>
+        
+      
+    
+        <!-- <script src="./dist/bundle.js"></script> -->
+        <!-- <script type="module" src="./script/app.js"></script> -->
+
+    </body>
+</html>

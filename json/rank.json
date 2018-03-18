@@ -1,0 +1,283 @@
+{
+    "code": 0,
+    "subcode": 0,
+    "message": "",
+    "default": 0,
+    "data": {
+        "topList": [
+            {
+                "id": 4,
+                "listenCount": 19900000,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_4_300_4933887.jpg",
+                "songList": [
+                    {
+                        "singername": "元若蓝/吴忠明",
+                        "songname": "心愿便利贴"
+                    },
+                    {
+                        "singername": "林俊杰",
+                        "songname": "我们的时光 (Live)"
+                    },
+                    {
+                        "singername": "张惠妹",
+                        "songname": "连名带姓"
+                    }
+                ],
+                "topTitle": "广汽传祺·巅峰榜·流行指数",
+                "type": 0
+            },
+            {
+                "id": 26,
+                "listenCount": 19400000,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_26_300_211968915.jpg",
+                "songList": [
+                    {
+                        "singername": "薛之谦",
+                        "songname": "背过手"
+                    },
+                    {
+                        "singername": "易烊千玺",
+                        "songname": "Unpredictable"
+                    },
+                    {
+                        "singername": "音阙诗听",
+                        "songname": "红昭愿"
+                    }
+                ],
+                "topTitle": "巅峰榜·热歌",
+                "type": 0
+            },
+            {
+                "id": 27,
+                "listenCount": 15433310,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_27_300_212046553.jpg",
+                "songList": [
+                    {
+                        "singername": "张靓颖/李荣浩",
+                        "songname": "女儿国"
+                    },
+                    {
+                        "singername": "Camila Cabello",
+                        "songname": "Never Be the Same"
+                    },
+                    {
+                        "singername": "현아 (泫雅)",
+                        "songname": "Lip & Hip"
+                    }
+                ],
+                "topTitle": "巅峰榜·新歌",
+                "type": 0
+            },
+            {
+                "id": 30,
+                "listenCount": 9300000,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_30_300_212105441.jpg",
+                "songList": [
+                    {
+                        "singername": "林俊杰",
+                        "songname": "我们的时光 (Live)"
+                    },
+                    {
+                        "singername": "林忆莲",
+                        "songname": "沙滩 (Live)"
+                    },
+                    {
+                        "singername": "乌拉多恩",
+                        "songname": "我还想她 (Live)"
+                    }
+                ],
+                "topTitle": "巅峰榜·梦想的声音",
+                "type": 0
+            },
+            {
+                "id": 28,
+                "listenCount": 19500000,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_28_300_204583470.jpg",
+                "songList": [
+                    {
+                        "singername": "广东雨神",
+                        "songname": "广东爱情故事"
+                    },
+                    {
+                        "singername": "贺敬轩",
+                        "songname": "罗曼蒂克的爱情"
+                    },
+                    {
+                        "singername": "杨清柠/曾奕灿",
+                        "songname": "没有如果的如果"
+                    }
+                ],
+                "topTitle": "巅峰榜·网络歌曲",
+                "type": 0
+            },
+            {
+                "id": 5,
+                "listenCount": 9800000,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_5_300_211968915.jpg",
+                "songList": [
+                    {
+                        "singername": "薛之谦",
+                        "songname": "背过手"
+                    },
+                    {
+                        "singername": "李宇春",
+                        "songname": "一趟"
+                    },
+                    {
+                        "singername": "王嘉尔",
+                        "songname": "OKAY"
+                    }
+                ],
+                "topTitle": "巅峰榜·内地",
+                "type": 0
+            },
+            {
+                "id": 6,
+                "listenCount": 5617460,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_6_300_212048594.jpg",
+                "songList": [
+                    {
+                        "singername": "张惠妹",
+                        "songname": "连名带姓"
+                    },
+                    {
+                        "singername": "王俊琪",
+                        "songname": "我多喜欢你，你会知道"
+                    },
+                    {
+                        "singername": "G.E.M. 邓紫棋",
+                        "songname": "Victoria"
+                    }
+                ],
+                "topTitle": "巅峰榜·港台",
+                "type": 0
+            },
+            {
+                "id": 3,
+                "listenCount": 15600000,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_3_300_211844407.jpg",
+                "songList": [
+                    {
+                        "singername": "Martin Garrix/David Guetta/Jamie Scott/Romy",
+                        "songname": "So Far Away"
+                    },
+                    {
+                        "singername": "Ed Sheeran/Beyoncé",
+                        "songname": "Perfect Duet"
+                    },
+                    {
+                        "singername": "OneRepublic",
+                        "songname": "Born To Race"
+                    }
+                ],
+                "topTitle": "巅峰榜·欧美",
+                "type": 0
+            },
+            {
+                "id": 16,
+                "listenCount": 8687960,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_16_300_212051674.jpg",
+                "songList": [
+                    {
+                        "singername": "현아 (泫雅)",
+                        "songname": "Lip & Hip"
+                    },
+                    {
+                        "singername": "MIXNINE (믹스나인)",
+                        "songname": "JUST DANCE (GIRL ver.)"
+                    },
+                    {
+                        "singername": "Rain (郑智薰)/조현아 (赵贤雅)",
+                        "songname": "오늘 헤어져 (今天分手吧)"
+                    }
+                ],
+                "topTitle": "巅峰榜·韩国",
+                "type": 0
+            },
+            {
+                "id": 17,
+                "listenCount": 1970000,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_17_300_202981859.jpg",
+                "songList": [
+                    {
+                        "singername": "8utterfly (バタフライ)",
+                        "songname": "最後のサヨナラ、最後の告白 (最后的道别、最后的告白)"
+                    },
+                    {
+                        "singername": "鈴木このみ (铃木木乃美)",
+                        "songname": "My Days"
+                    },
+                    {
+                        "singername": "moumoon (沐月)",
+                        "songname": "光の影 (光之影)"
+                    }
+                ],
+                "topTitle": "巅峰榜·日本",
+                "type": 0
+            },
+            {
+                "id": 201,
+                "listenCount": 399783,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150127163830.jpg",
+                "songList": [
+                    {
+                        "singername": "杨宗纬",
+                        "songname": "一场恋爱"
+                    },
+                    {
+                        "singername": "현아",
+                        "songname": "Lip & Hip"
+                    },
+                    {
+                        "singername": "张靓颖",
+                        "songname": "女儿国"
+                    }
+                ],
+                "topTitle": "巅峰榜·MV",
+                "type": 0
+            },
+            {
+                "id": 52,
+                "listenCount": 1890840,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_52_300_210737116.jpg",
+                "songList": [
+                    {
+                        "singername": "陈陈陈",
+                        "songname": "鸟惊心"
+                    },
+                    {
+                        "singername": "万妮达",
+                        "songname": "Understand"
+                    },
+                    {
+                        "singername": "路壹Lu1/梁晓雪",
+                        "songname": "很可爱的歌 (Remix)"
+                    }
+                ],
+                "topTitle": "巅峰榜·腾讯音乐人原创榜",
+                "type": 0
+            },
+            {
+                "id": 36,
+                "listenCount": 4867180,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_36_300_200525765.jpg",
+                "songList": [
+                    {
+                        "singername": "苏悦宁",
+                        "songname": "红色高跟鞋"
+                    },
+                    {
+                        "singername": "陈诗思",
+                        "songname": "我好想你"
+                    },
+                    {
+                        "singername": "胡慧",
+                        "songname": "分手快乐"
+                    }
+                ],
+                "topTitle": "巅峰榜·K歌金曲",
+                "type": 0
+            }
+        ]
+    }
+}

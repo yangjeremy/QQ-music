@@ -1,10 +1,10 @@
-# 原生 JS 实现 移动端QQ音乐 webApp
+﻿# 原生 JS 实现 移动端QQ音乐 webApp
 纯原生 JS ，ES6、7 语法实现，无依赖任何框架或库。
 仿 QQ音乐 移动端的单页应用，采用 Express 伪造请求 API 数据。
 
 ## 在线演示
 
-<div align=center><a href="https://qqmusic.n-y.io" target=_blank>在线预览戳我</a></div>
+
 <div align=center>为了更好的体验，请用开发者工具模拟移动端体验</div>
 <br>
 <div align=center>

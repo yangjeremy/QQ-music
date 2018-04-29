@@ -10,19 +10,16 @@
     "server": "webpack-dev-server --open"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dd328199005/QQ-Music-1.0.git"
+    "type": "git"
   },
   "keywords": [],
   "author": {
-    "name": "chen yaod ",
-    "email": "az331127@163.com"
+    "name": "chen yaod "
   },
   "license": "MIt",
   "bugs": {
-    "url": "https://github.com/dd328199005/QQ-Music-1.0/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/dd328199005/QQ-Music-1.0#readme",
   "dependencies": {
     "cors": "^2.8.4",
     "express": "^4.16.2",
